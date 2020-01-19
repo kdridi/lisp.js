@@ -1,0 +1,26 @@
+{
+  "name": "lisp.js",
+  "version": "0.1.0",
+  "description": "A super tiny LISP interpreter",
+  "main": "lisp.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdridi/lisp.js.git"
+  },
+  "keywords": [
+    "lisp",
+    "interpreter"
+  ],
+  "author": "Karim DRIDI <karim.dridi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdridi/lisp.js/issues"
+  },
+  "homepage": "https://github.com/kdridi/lisp.js#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
